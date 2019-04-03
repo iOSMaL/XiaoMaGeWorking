@@ -1,0 +1,16 @@
+PODS:
+  - XiaoMageWorking (0.1.0)
+
+DEPENDENCIES:
+  - XiaoMageWorking (from `../`)
+
+EXTERNAL SOURCES:
+  XiaoMageWorking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XiaoMageWorking: 4756cac4152907caf1c58d249f0a514c62daea5a
+
+PODFILE CHECKSUM: 57c99af9b6bd4a5855a862e31028b7d80642cba9
+
+COCOAPODS: 1.6.1

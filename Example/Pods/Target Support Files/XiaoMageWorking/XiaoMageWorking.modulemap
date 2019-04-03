@@ -1,0 +1,6 @@
+framework module XiaoMageWorking {
+  umbrella header "XiaoMageWorking-umbrella.h"
+
+  export *
+  module * { export * }
+}
